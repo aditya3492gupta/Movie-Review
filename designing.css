@@ -1,0 +1,16 @@
+#flogo{
+    width: 360px;
+    height: 360px;
+    transition: 2s;
+}
+#flogo:hover{
+    width: 480px;
+    height: 480px;
+}
+.mposter{
+    transition: .2s;
+}
+.mposter:hover{
+    width: 140px;
+    height: 140px;
+}
