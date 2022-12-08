@@ -1,0 +1,8 @@
+.mposter1 {
+    transition: .2s;
+}
+
+.mposter1:hover {
+    width: 300px;
+    height: 300px;
+}
